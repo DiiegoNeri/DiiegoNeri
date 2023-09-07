@@ -19,8 +19,6 @@
 
 </div>
 
-![Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=MthAlvarez&theme=gotham)
-
 ## Contatos:
 
 E-Mail: diego.ramos.neri@gmail.com
